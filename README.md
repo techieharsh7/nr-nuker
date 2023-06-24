@@ -15,5 +15,5 @@
 9. `Rename Roles` **(NEW)**
 10. `Nuke` 
 
-**(NEW !)**   **(NEW !)**   **(NEW !)**   **(NEW !)**   **(NEW !)** 
-[](https://cdn.discordapp.com/attachments/1109413020561580062/1122196566095171764/Screenshot_2023-06-24_at_6.23.42_PM.png)
+| NR_NUKER  |  New Scrap Feature | 
+| ![](https://media.discordapp.net/attachments/1109411690497445940/1118883050462380102/Screenshot_2023-06-15_at_6.11.37_PM.png?width=1684&height=395)
