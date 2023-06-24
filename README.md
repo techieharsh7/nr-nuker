@@ -14,3 +14,6 @@
 8. `Rename Channels` **(NEW)**
 9. `Rename Roles` **(NEW)**
 10. `Nuke` 
+
+**(NEW !)**   **(NEW !)**   **(NEW !)**   **(NEW !)**   **(NEW !)** 
+[](https://cdn.discordapp.com/attachments/1109413020561580062/1122196566095171764/Screenshot_2023-06-24_at_6.23.42_PM.png)
