@@ -1,7 +1,11 @@
-# Nr_Nuker
-
-| NR_NUKER  |  MADE BY HARSH | 
-| ![](https://media.discordapp.net/attachments/1109411690497445940/1118883050462380102/Screenshot_2023-06-15_at_6.11.37_PM.png?width=1684&height=395)
+<div align="center">
+<img 
+height="100px" 
+width="100px"
+src="https://media.discordapp.net/attachments/1109411690497445940/1118883050462380102/Screenshot_2023-06-15_at_6.11.37_PM.png?width=1684&height=395"
+></img>
+<h1>Nr-Nuker</h1><br>
+</div>
 
 ## Features:
 1. `Ban Members`
