@@ -17,7 +17,7 @@
 ---
 ---
 #### Contributors
-* [![Contributors](https://img.shields.io/github/contributors/techieharsh7/nr-nuker?label=contributors&style=for-the-badge)](100)
+* [![Contributors](https://img.shields.io/github/contributors/techieharsh7/nr-nuker?label=&style=for-the-badge)](https://github.com/techieharsh7/nr-nuker/graphs/contributors)
 
 #### Stats
 * [![Stars](https://img.shields.io/github/stars/techieharsh7/nr-nuker?label=Stars&style=for-the-badge)](https://github.com/techieharsh7/nr-nuker/stargazers)
