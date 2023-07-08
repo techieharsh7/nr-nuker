@@ -24,7 +24,7 @@
 [![Live Watching](https://img.shields.io/github/watchers/techieharsh7/nr-nuker?label=watchers&style=for-the-badge)](https://github.com/techieharsh7/nr-nuker/watchers)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Code](https://img.shields.io/github/languages/code-size/techieharsh7/nr-nuker/nr_nuker.exe?logo=github&style=normal)
+![Code](https://img.shields.io/github/languages/code-size/techieharsh7/nr-nuker?logo=github&style=normal)
 
 ---
 ---
