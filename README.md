@@ -5,14 +5,28 @@ src="https://media.discordapp.net/attachments/1109411690497445940/11188830504623
 <h1>Nr-Nuker</h1><br>
 </div>
 
+---
+
+[![Stars](https://img.shields.io/github/stars/techieharsh7/nr-nuker?label=Stars&style=for-the-badge)](https://github.com/techieharsh7/nr-nuker/stargazers)
+[![Forks](https://img.shields.io/github/forks/techieharsh7/nr-nuker?label=Forks&style=for-the-badge)](https://github.com/techieharsh7/nr-nuker/network/members)
+[![Contributors](https://img.shields.io/github/forks/techieharsh7/nr-nuker?label=Contributors&style=for-the-badge)](https://github.com/techieharsh7/nr-nuker/graphs/contributors)
+
+---
+
 ## Features:
-1. `Ban Members`
-2. `Kick Members`
-3. `Prune Members`
-4. `Delete Channels`
-5. `Create Channels`
-6. `Delete Roles`
-7. `Create Roles`
-8. `Rename Channels` **(NEW)**
-9. `Rename Roles` **(NEW)**
-10. `Nuke` 
+* ` Ban Members`
+* ` Kick Members`
+* ` Prune Members`
+* ` Delete Channels`
+* ` Create Channels`
+* `Delete Roles`
+* ` Create Roles`
+* ` Rename Channels` **(NEW)**
+* ` Rename Roles` **(NEW)**
+* ` Nuke` 
+
+---
+
+### Skiders:
+
+* ` Sourav | ht/nt`
