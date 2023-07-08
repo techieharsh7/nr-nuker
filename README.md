@@ -4,7 +4,7 @@
 
 ---
 
-* [![Views](https://img.shields.io/github/contributors/techieharsh7/nr-nuker?label=views&style=for-the-badge)](https://github.com/techieharsh7/nr-nuker/graphs/traffic)
+* [![Views](https://img.shields.io/github/views/techieharsh7/nr-nuker?label=views&style=for-the-badge)](https://github.com/techieharsh7/nr-nuker/graphs/traffic)
 
 * [![Stars](https://img.shields.io/github/stars/techieharsh7/nr-nuker?label=Stars&style=for-the-badge)](https://github.com/techieharsh7/nr-nuker/stargazers)
 
@@ -12,7 +12,7 @@
 
 * [![Live Watching](https://img.shields.io/github/watchers/techieharsh7/nr-nuker?label=watchers&style=for-the-badge)](https://github.com/techieharsh7/nr-nuker/watchers)
 
-* [![Contributors](https://img.shields.io/github/contributor/techieharsh7/nr-nuker?label=contributors&style=for-the-badge)](https://github.com/techieharsh7/nr-nuker/graphs/contributors)
+* [![Contributors](https://img.shields.io/github/contributors/techieharsh7/nr-nuker?label=contributors&style=for-the-badge)](https://github.com/techieharsh7/nr-nuker/graphs/contributors)
 
 ---
 
