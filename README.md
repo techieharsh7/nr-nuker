@@ -2,7 +2,9 @@
 <h1>Nr-Nuker</h1><br>
 </div>
 
-# Features:
+---
+---
+# Features
 ` Ban Members`
 ` Kick Members`
 ` Prune Members`
@@ -10,8 +12,8 @@
 ` Create Channels`
 `Delete Roles`
 ` Create Roles`
-` Rename Channels` **(NEW)**
-` Rename Roles` **(NEW)**
+` Rename Channels`
+` Rename Roles`
 ` Nuke` 
 
 ---
