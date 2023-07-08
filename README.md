@@ -1,7 +1,10 @@
-<div align="center" style="background-color: red;">
-  <h1>Nr-Nuker</h1>
+<div align="center">
+<h1>Nr-Nuker</h1><br>
+ <img src="https://img.shields.io/github/contributors/techieharsh7/nr-nuker?label=contributors&style=for-the-badge"/>
+ <img src="https://img.shields.io/website?style=normal&url=https%3A%2F%2Fgprm.itsvg.in/"/> 
+ <img src="https://img.shields.io/badge/License-GPL%20v3-brightgreen?style=normal"/>
+ <img src="https://img.shields.io/github/languages/code-size/VishwaGauravIn/github-profile-readme-maker?logo=github&style=normal"/>
 </div>
-
 
 ---
 ---
